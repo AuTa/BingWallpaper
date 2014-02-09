@@ -1,5 +1,5 @@
-# pyempty changelog
+# BingWallpaper changelog
 
-## 2012-09-07 0.1
+## 2014-02-08 0.11
 
 * First public version.
