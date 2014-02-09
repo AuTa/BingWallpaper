@@ -1,4 +1,4 @@
 *.pyc
 dist
 MANIFEST
-src\bingwallpaper\BingWallpaper/
+src/bingwallpaper/BingWallpaper/
